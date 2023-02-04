@@ -1,5 +1,8 @@
 # Pokemon-Dashboard-Kanto-Region-
-![Screenshot_20230204_200153](https://user-images.githubusercontent.com/104718068/216773318-b15fd4ff-7098-477a-b5c4-bb554d97fb93.png)
-![Screenshot_20230204_200109](https://user-images.githubusercontent.com/104718068/216773315-316e15e2-cb42-463a-93d2-20d9c73b6c96.png)
-![Screenshot_20230204_200243](https://user-images.githubusercontent.com/104718068/216773321-0ae9b307-f434-4151-bffa-0cb8b3f7a306.png)
-![Screenshot_20230204_200305](https://user-images.githubusercontent.com/104718068/216773322-235f6434-108c-489c-88fe-8f478872f66e.png)
+![Screenshot_20230205_012121](https://user-images.githubusercontent.com/104718068/216787139-dc26dd83-8a6c-4f52-962c-9339a5ecdcb5.png)
+
+![Screenshot_20230205_012228](https://user-images.githubusercontent.com/104718068/216787140-64192e7d-4deb-4c20-9f02-f7cce33b3d47.png)
+
+![Screenshot_20230205_012317](https://user-images.githubusercontent.com/104718068/216787145-90bbf730-c2f1-4dac-8e5d-d8cbdac4ec0a.png)
+
+![Screenshot_20230205_012344](https://user-images.githubusercontent.com/104718068/216787147-149afafd-d90a-40e0-b3e1-bdc58574c869.png)
